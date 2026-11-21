@@ -1,0 +1,11 @@
+{
+  "url": "https://www.ohchr.org/en/indigenous-peoples",
+  "final_url": "https://www.ohchr.org/en/indigenous-peoples",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 145154,
+  "sha256": "210b73067edb60e38742e388289e77f0a465f45b71253fe9755ce9640fb689ae",
+  "captured_at": "2026-11-21T22:41:25.467517Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
